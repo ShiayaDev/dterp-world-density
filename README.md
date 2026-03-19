@@ -5,7 +5,8 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 A lightweight standalone FiveM script that allows server owners to control pedestrian and vehicle spawn density across the map.
-<img width="901" height="30" alt="Screenshot 2026-03-18 012226" src="https://github.com/user-attachments/assets/8a666a56-a1ff-41e4-a2cf-6b41d13e34dc" />
+<img width="897" height="26" alt="image" src="https://github.com/user-attachments/assets/24978aa7-9400-4bbf-92d2-fa82b2337b0b" />
+
 
 ## Features
 ✔ Configurable pedestrian density  
