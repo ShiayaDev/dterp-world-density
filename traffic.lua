@@ -3,7 +3,7 @@ local config = { -- Adjust these values to control how many pedestrians and vehi
     trafficFrequency = 0.1,  -- Vehicle spawn density (0.0 = none, 1.0 = default GTA level)
 }
 
-Citizen.CreateThread(function()
+CreateThread(function()
     -- Infinite loop that runs every frame
     while true do 
         -- Wait 0 ensures this runs once per game frame
